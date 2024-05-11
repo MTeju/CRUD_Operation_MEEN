@@ -25,5 +25,28 @@ In this Project We can perform operations as mentioned below
 
 ##
 
-The Following Screen Shots Demostrates all
+### The Following Screen Shots Demostrates all
+## 1) User Interface will looks like below picture
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_21_10](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/68054b99-5c31-4632-a4cd-e6193bcde3a4)
+
+## User Enerting Data
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_21_43](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/18b83e61-9780-4eea-a459-3d9f41196a91)
+
+## After Clicking Submit Button
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_21_50](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/030b2d19-cd40-4231-bfc4-5080cc578b3d)
+
+## Interface after clicking Update button
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_22_07](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/0b715994-f152-4697-be15-66860571b556)
+
+## After Saving changes / after updation
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_22_19](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/2c7fdc61-1502-4ef1-9e97-e6a20a45f78f)
+
+## After Changes is done Displaying the updated data
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_22_26](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/6fab6e12-5b4a-4a9a-836d-ad66909966ca)
+
+## After deleting the Data
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_22_37](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/33698d8d-09fe-4fa6-bf4d-ce8dbc5ca04f)
+
+### Video Samples
+https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868-a496-0eedcc2694f9
 
