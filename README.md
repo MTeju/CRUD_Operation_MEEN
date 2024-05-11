@@ -57,3 +57,13 @@ https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868
 
 # Requirements 
 1) Check [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) is installed or not
+2) Install [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) compass in your loca system
+3) Install [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) in your system
+
+   * Follow the below steps
+       1) Go to vs code
+       2) create new folder
+       3) open intigrated teminal in vs code
+       4) type **npm init -y** to initalize node in that folder
+       5) goto **package.json** and rename **index.js** to **app.js** which will be our entry point
+       6) now in the same terminal type npm i **mongoose** **ejs** **express** **nodemon** **tailwindcss** and any other if (required)
