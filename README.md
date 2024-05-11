@@ -15,7 +15,7 @@
 In this Project We can perform operations as mentioned below
 1) User needs to enter the name, email and any image URL from internet and clicks on **submit**
 2) The informaation will be dispaled in on the screen
-3) Now user can ***update*** his data and even **delete** his data.
+3) Now user can **update** his data and even **delete** his data.
 4) When he clicks on the **update** button he will be redirected to the Update page where,
    * the input fields are filled with data
    * now he needs to change / update data like,
