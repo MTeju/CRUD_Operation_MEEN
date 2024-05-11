@@ -71,4 +71,4 @@ https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868
      * confirm one that good to go
      * now open the intigrated terminal in the vs Code [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
      * run the commond below
-           * npx nodemon app.js
+       * npx nodemon app.js
