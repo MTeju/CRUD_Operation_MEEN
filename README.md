@@ -61,14 +61,14 @@ https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868
 3) Install NodeJS [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) in your system 
 
    * Follow the below steps
-     * Go to vs code
-     * create new folder
-     * open intigrated teminal in vs code
-     * type **npm init -y** to initalize node in that folder
-     * goto **package.json** and rename **index.js** to **app.js** which will be our entry point
-     * now in the same terminal type **npm i mongoose ejs express nodemon tailwindcss** and any other if (required)
-     * clone the repo or download the zip file create folder structure same as in repo and past the file accordingly
-     * confirm one that good to go
-     * now open the intigrated terminal in the vs Code [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-     * run the commond below
-       * npx nodemon app.js
+       * Go to vs code
+       * create new folder
+       * open intigrated teminal in vs code
+       * type **npm init -y** to initalize node in that folder
+       * goto **package.json** and rename **index.js** to **app.js** which will be our entry point
+       * now in the same terminal type **npm i mongoose ejs express nodemon tailwindcss** and any other if (required)
+       * clone the repo or download the zip file create folder structure same as in repo and past the file accordingly
+       * confirm one that good to go
+       * now open the intigrated terminal in the vs Code [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+       * run the commond below
+         * **npx nodemon app.js**
