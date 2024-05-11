@@ -56,9 +56,9 @@ https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868
 
 
 # Requirements 
-1) Check [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) is installed or not
-2) Install [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) compass in your loca system
-3) Install [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) in your system
+1) Check VS Code is installed or not (if not install) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+2) Install compass in your loca system [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
+3) Install in your system [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
    * Follow the below steps
        1) Go to vs code
@@ -67,3 +67,8 @@ https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868
        4) type **npm init -y** to initalize node in that folder
        5) goto **package.json** and rename **index.js** to **app.js** which will be our entry point
        6) now in the same terminal type npm i **mongoose** **ejs** **express** **nodemon** **tailwindcss** and any other if (required)
+       7) clone the repo or download the zip file create folder structure same as in repo and past the file accordingly
+       8) confirm one that good to go
+       9) now open the intigrated terminal in the vs Code [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+       10) run the commond below
+           * npx nodemon app.js
