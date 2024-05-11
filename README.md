@@ -56,19 +56,19 @@ https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868
 
 
 # Requirements 
-1) Check VS Code is installed or not (if not install) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-2) Install MongoDB compass in your loca system [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
-3) Install NodeJS in your system [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+1) Check VS Code [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) is installed or not (if not install) 
+2) Install MongoDB compass [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  in your local system 
+3) Install NodeJS [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) in your system 
 
    * Follow the below steps
-       1) Go to vs code
-       2) create new folder
-       3) open intigrated teminal in vs code
-       4) type **npm init -y** to initalize node in that folder
-       5) goto **package.json** and rename **index.js** to **app.js** which will be our entry point
-       6) now in the same terminal type npm i **mongoose** **ejs** **express** **nodemon** **tailwindcss** and any other if (required)
-       7) clone the repo or download the zip file create folder structure same as in repo and past the file accordingly
-       8) confirm one that good to go
-       9) now open the intigrated terminal in the vs Code [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-       10) run the commond below
+     * Go to vs code
+     * create new folder
+     * open intigrated teminal in vs code
+     * type **npm init -y** to initalize node in that folder
+     * goto **package.json** and rename **index.js** to **app.js** which will be our entry point
+     * now in the same terminal type **npm i mongoose ejs express nodemon tailwindcss** and any other if (required)
+     * clone the repo or download the zip file create folder structure same as in repo and past the file accordingly
+     * confirm one that good to go
+     * now open the intigrated terminal in the vs Code [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+     * run the commond below
            * npx nodemon app.js
