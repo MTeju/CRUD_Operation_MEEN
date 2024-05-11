@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Operation</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class="w-full h-full bg-gray-100 p-5 ">
+        <div class="nav flex gap-3">
+            <h1 class="text-4xl mb-5">All User</h1>
+            <a href="/" class="border-2 border-zinc-400 px-3 py-2 rounded-lg mb-5 hover:cursor-pointer ">Back</a>
+        </div>
+        <div class="users flex flex-wrap gap-3 justify-center">
+            <% users.forEach(function(user){ %>
+                <div class="user w-80 p-2 border-2 border-zinc-300 bg-transparent rounded-lg">
+                    <div class="w-full h-40 bg-zinc-500 rounded-lg overflow-hidden">
+                        <img class="w-full h-full object-cover rounded-lg" src="<%= user.image %>" alt="">
+                    </div>
+                    <h3 class="text-2xl mt-3"><%= user.name %></h3>
+                    <h5 class="text-gray-600"><%= user.email %></h5>
+                    <div class="flex gap-1 mt-2">
+                        <a href="/edit/<%= user._id %>" class="px-3 py-2 border-2 bg-blue-500 rounded-md cursor-pointer hover:bg-sky-700 text-white">Edit User</a>
+                        <a href="/delete/<%= user._id %>" class="text-red-600 px-3 py-2">Delete User</a>
+                    </div>
+                </div>
+            <% }) %>
+        </div>
+    </div>
+</body>
+</html>
