@@ -57,8 +57,8 @@ https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868
 
 # Requirements 
 1) Check VS Code is installed or not (if not install) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-2) Install compass in your loca system [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
-3) Install in your system [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+2) Install MongoDB compass in your loca system [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
+3) Install NodeJS in your system [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
    * Follow the below steps
        1) Go to vs code
