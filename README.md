@@ -4,5 +4,7 @@
 ### Technologies Used
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
 
