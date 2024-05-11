@@ -47,6 +47,13 @@ In this Project We can perform operations as mentioned below
 ## After deleting the Data
 ![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 21_22_37](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/33698d8d-09fe-4fa6-bf4d-ce8dbc5ca04f)
 
-### Video Samples
+## You can cross check in MongoDB Compasa
+![CRUD Operation and 1 more page - Personal - Microsoft​ Edge 11-05-2024 22_14_36](https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/78857a56-b442-4d6a-9e8d-e3141b48e71b)
+
+
+### Video Sample
 https://github.com/MTeju/CRUD_Operation_MEEN/assets/106768538/d2038dc1-ba71-4868-a496-0eedcc2694f9
 
+
+# Requirements 
+1) Check [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) is installed or not
